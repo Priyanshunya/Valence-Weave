@@ -2,7 +2,6 @@
 **Cyber-Physical Safety Node & Edge-AI Wearable**
 
 [![License: MIT](https://img.shields.io/badge/Software_License-MIT-blue.svg)](#)
-[![Hardware License](https://img.shields.io/badge/Hardware_License-CERN_OHL_W-orange.svg)](#)
 [![MCU: ESP32-S3](https://img.shields.io/badge/Compute-ESP32--S3--MINI-success)](#)
 [![Domain: CPS](https://img.shields.io/badge/Domain-Cyber_Physical_Safety-informational.svg)](#)
 [![Industry: 5.0](https://img.shields.io/badge/Industry-5.0_/_Human_Centric-blueviolet.svg)](#)

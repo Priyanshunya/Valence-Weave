@@ -7,7 +7,7 @@
 [![Industry: 5.0](https://img.shields.io/badge/Industry-5.0_/_Human_Centric-blueviolet.svg)](#)
 [![Edge AI: TinyML](https://img.shields.io/badge/Edge_AI-TinyML_/_ESP--NN-blue.svg)](#)
 
-> **The Mission:** Drastically mitigate industrial entrapment fatalities by replacing rigid, infrastructure-heavy IoT pendants with a zero-infrastructure, stretch-variable wearable. Valence Weave triggers automated machine fail-safes in sub-100 milliseconds—30x faster than baseline human reaction time.
+> **The Mission:** Drastically mitigate industrial entrapment fatalities by replacing rigid, infrastructure-heavy IoT pendants with a zero-infrastructure, stretch-variable wearable. Valence Weave triggers automated machine fail-safes in sub-100 milliseconds, 30x faster than baseline human reaction time.
 
 ---
 
